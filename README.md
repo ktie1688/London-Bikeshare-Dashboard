@@ -63,4 +63,6 @@ Bar chart indicating weather conditions and number of bike shares.
 #### Hour Split
 Bar chart indicating time of day and number of of bike shares.
 ## Data Insights
+[London Bikeshare Dashboard](https://public.tableau.com/app/profile/kevin.tie5341/viz/LondonBikeShareDashboard_17006090632250/LondonBikeShare_Dashboard)
+
 Bike shares spike between 7-9 AM and spike again between 5-7 PM, suggesting it is a popular mode of commuting to work. The service peaks during the summer, gradually decreasing to a low in the winter and climbing back up during the spring. Ideal weather appears to be 15 degrees Celsius with gentle to moderate winds with significantly less usage in the rain. Potential actions would be to apply cost cutting measures during months of lower usage or to add rain poncho dispensaries by bike stations.
