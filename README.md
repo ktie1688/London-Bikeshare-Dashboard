@@ -12,7 +12,7 @@ Clean and analyze a dataset on bike shares in London. Then create visualizations
 * Tableau
 
 ## Methodology
-First off, the dataset was loaded into a [Jupyter Notebook](file) to begin the data cleaning and mapping process.
+First off, the dataset was loaded into a [Jupyter Notebook](london_bikeshare.ipynb) to begin the data cleaning and mapping process.
 ### Data Cleaning and Mapping
 * Renamed columns to improve clarity
 * Percentage values transformed to actual percent values (i.e. between 0 and 1) for later measures in Tableau.
